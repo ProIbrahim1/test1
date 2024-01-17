@@ -1,0 +1,219 @@
+.hclass {
+
+    height: 738px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #nav {
+    background-color: #525252;
+    height: 80px;
+    margin: 0;
+    margin-top: 10px;
+  }
+  
+  body {
+    margin: 0;
+    font-family: arial;
+  }
+  
+  #white {
+    background-color: white;
+    height: 60px;
+    position: relative;
+    left: 100px;
+    top: 10px;
+    width: 300px;
+  }
+  
+  .menu {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    margin-bottom: 00px;
+    text-transform: uppercase;
+    list-style: none;
+    display: inline-block;
+    margin-left: 500px;
+    position: relative;
+    left: 50px; 
+    top: -50px;
+  }
+  
+  .menu li {
+    display: inline-block;
+    margin-right: 100px;
+    text-decoration: underline 3px; 
+  }
+  .overlay{
+    height: 400px;
+    position: relative;
+    top: -750px;
+    background-color: #525252;
+    opacity: 0.3;
+  }
+  .overlays{
+    height: 398px;
+    background-color: #000000;
+    opacity: 1;
+    width: 1400px;
+    margin: 0 auto;
+  }
+  #ovwhite {
+    background-color: white;
+    height: 190px;
+    position: relative;
+    left: 20px;
+    top: 120px;
+    width: 400px;
+    opacity: 0.7;
+  }
+  #twhite {
+    height: 190px;
+    position: relative;
+    left: 800px;
+    top: -1030px;
+    width: 400px;
+    opacity: 1;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    padding-top: 80px;
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+  }
+  .arrow{
+    width: 70px;
+    position: relative;
+    top: -1200px;
+    color: grey;
+    border: none;
+    opacity: 0.3;
+  }
+  .arrowt{
+    width: 70px;
+    position: relative;
+    color: grey;
+    border: none;
+    opacity: 1;
+  }
+  .downs{
+    height: 348px;
+    background-color: grey;
+    opacity:0.3 ;
+    width: 1400px;
+    margin: 0 auto;
+    position: relative;
+    top: -1180px;
+  }
+  .ats{
+
+    width: 290px;
+    position: relative;
+    opacity: 0.9;
+    color: #525252;
+    top: -1480px;
+    left: 200px;
+    font-size: 30px;
+  }
+  #atswhite{
+    background-color:#aaaaaa;
+    height: 90px;
+    position: relative;
+    left: 190px;
+    top: -1470px;
+    width: 300px;
+  }
+  #atst{
+
+    width: 300px;
+    position: relative;
+    left: 190px;
+    top: -1465px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+  }
+  .pavhead{
+    position: relative;
+    left: 20px;
+    top: 7px;
+  }
+  .pav{
+
+    width: 290px;
+    position: relative;
+    opacity: 0.9;
+    color: #525252;
+    top: -1739px;
+    left: 610px;
+    font-size: 30px;
+  }
+  #pavwhite{
+    background-color:#aaaaaa;
+    height: 90px;
+    position: relative;
+    left: 600px;
+    top: -172px;
+    width: 300px;
+  }
+  #pavt{
+
+    width: 300px;
+    position: relative;
+    left: 600px;
+    top: -1908px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+  }
+  #pavon{
+    border: 3px solid #d9d9d9;
+    width: 100px;
+    height: 88px;
+    position: relative;
+    left: 700px;
+    top: -1911px;
+    background-color: #aaaaaa;
+  }
+  #pavtw{
+    border: 3p  x solid #d9d9d9;
+    width: 100px;
+    height: 88px;
+    position: relative;
+    left: 600px;
+    top: -1820px;
+    background-color: #aaaaaa;
+  }
+  #pavth{
+    height: 88px;
+    width: 100px;
+    border: 1px solid #d9d9d9;
+    position: relative;
+    left: 805px;
+    top: -1732px;
+    background-color: #aaaaaa;
+  }
+  .table{
+  }
+  .tablet{
+  }
+  .juice{
+    width: 290px;
+    position: relative;
+    opacity: 0.9;
+    color: #525252;
+    top: -2255px;
+    left: 1100px;
+    font-size: 30px;
+  }
+  #ida{
+    width: 100px;
+    padding: 10px;
+    font-size: 18px;
+  }
+  .tableq{
+    position: relative;
+    left: 1080px;
+    top: -2250px;
+    background-color: #d1d1d1;
+  }
+  .orow{
+    background-color: #adadad;
+  }
